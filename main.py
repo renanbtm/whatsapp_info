@@ -13,8 +13,8 @@ rodar arquivos exportados de iPhones alterar para ANDROID_DEVICE = False
 Coloque o nome de usuário de quem exportou a conversa na variável MY_WHATSAPP_USERNAME para o script
 não considerar "Você" e o seu nome de usuários como 2 usuários diferentes.
 
-3 - Coloque o arquivo da conversa no mesmo diretório do script "whatsapp_info.py" e inisira o nome do
-arquivo na variável FILE_NAME. Isira o nome do arquivo junto com a sua extensão (Ex: _chat.txt)
+3 - Coloque o arquivo da conversa no mesmo diretório do script "main.py" e inisira o nome do
+arquivo na variável FILE_NAME. Insira o nome do arquivo junto com a sua extensão (Ex: _chat.txt)
 '''
 ANDROID_DEVICE = True
 MY_WHATSAPP_USERNAME = ""
